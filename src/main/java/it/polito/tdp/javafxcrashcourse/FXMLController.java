@@ -58,6 +58,7 @@ public class FXMLController {
     	}
     	
     	labelRisposta.setText(saluto);
+    	// Ho fatto una modifica
     }
 
     @FXML
